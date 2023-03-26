@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31009074676",
+    "project_id": "whatchaknow-4ab97",
+    "storage_bucket": "whatchaknow-4ab97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31009074676:android:90c02dfdc8ed6f703e9da1",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31009074676-phoma0coqipvg9inok1h0lm478hjain9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChZJ-mJuBfrYyYUFLh8drL5cCImMqW68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31009074676-phoma0coqipvg9inok1h0lm478hjain9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
