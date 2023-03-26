@@ -1,12 +1,6 @@
-# Sample Snack app
+# WhatchaKnow
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-"# Word-Guessing-Game" 
+Open the command prompt or terminal in the project directory of the app.
+Type npm start in the command prompt or terminal and press enter.
+Expo will launch the app and provide you with a QR code.
+Install the Expo app on your mobile device and scan the QR code to open the app on your device.
